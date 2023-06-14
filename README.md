@@ -1,4 +1,4 @@
-Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi there! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
 
 I'm a Production Artist in the sign and graphics industry that is on a mission to switch careers to Full-Stack Software Developer. I've been working hard everyday towards my goal of conquering the MERN stack and I aim to create captivating UI's that are supported by a strong and reliable backend infrastructure.
