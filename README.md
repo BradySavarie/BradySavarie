@@ -1,7 +1,7 @@
 Hello!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My Name is Brady
 =====================================================================================================================================
 
-I'm a self-taught developer looking to transition from graphics production work in the sign industry to a career in full-stack software development. I work hard everyday towards my goal of conquering the MERN stack and I aim to create captivating UI's that are supported by a strong and reliable backend infrastructure. Designing and building visually appealing products that solve business problems is what gets me up in the morning (with the help of a strong cup of coffee).
+I'm a self-taught developer looking to transition from graphics production work in the sign industry to a career in full-stack software development. I work hard everyday towards my goal of conquering the MERN stack and I aim to create captivating UI's that are supported by a reliable backend infrastructure. Designing and building visually appealing products that solve business problems is what gets me up in the morning (with the help of a strong cup of coffee).
 
 *   🌍  I'm based in Sudbury, ON
 *   🖥️  See my portfolio at [MyPortfolio](http://my-portfolio-link)
