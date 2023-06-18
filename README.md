@@ -7,7 +7,7 @@ I'm a self-taught developer looking to transition from the graphics production i
 *   🖥️  See my portfolio at [MyPortfolio](http://my-portfolio-link)
 *   ✉️  You can contact me at [brady.savarie@hotmail.com](mailto:brady.savarie@hotmail.com)
 *   🚀  My most recent project is <a href="https://bradysavarie.github.io/battleship/">Battleship</a>
-*   ✏️ I'm currently working on [CV Builder](http://cv-builder-link)
+*   ✏️ I'm currently working on a CV Builder applicaton
 *   🧠  I'm learning React & Styled Components via The Odin Project
 
 <br>
