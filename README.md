@@ -7,8 +7,8 @@ I'm a self-taught developer looking to transition from the graphics production i
 *   🖥️  See my portfolio at [MyPortfolio](http://my-portfolio-link)
 *   ✉️  You can contact me at [brady.savarie@hotmail.com](mailto:brady.savarie@hotmail.com)
 *   🚀  My most recent project is <a href="https://bradysavarie.github.io/memory-cards/">Memory Cards</a>
-*   ✏️ I'm currently working on an ecommerce application
-*   🧠  I'm learning React via The Odin Project
+*   ✏️ I'm currently working on an Ecommerce application
+*   🧠  I'm learning React routing and testing via The Odin Project
 
 <br>
 <h2>Skills</h2>
