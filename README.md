@@ -6,9 +6,9 @@ I'm a self-taught developer looking to transition from the graphics production i
 *   🌍  I'm based in Sudbury, ON
 *   🖥️  See my portfolio at [MyPortfolio](http://my-portfolio-link)
 *   ✉️  You can contact me at [brady.savarie@hotmail.com](mailto:brady.savarie@hotmail.com)
-*   🚀  My most recent project is <a href="https://bradysavarie.github.io/cv-builder/">CV Builder</a>
-*   ✏️ I'm currently working on a Memory Cards applicaton
-*   🧠  I'm learning React, MaterialUI, and Styled Components via The Odin Project
+*   🚀  My most recent project is <a href="https://bradysavarie.github.io/memory-cards/">CV Builder</a>
+*   ✏️ I'm currently working on an ecommerce application
+*   🧠  I'm learning React via The Odin Project
 
 <br>
 <h2>Skills</h2>
