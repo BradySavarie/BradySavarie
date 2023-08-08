@@ -6,9 +6,9 @@ I'm a self-taught developer looking to transition from the graphics production i
 *   🌍  I'm based in Sudbury, ON
 *   🖥️  See my portfolio at [MyPortfolio](http://my-portfolio-link)
 *   ✉️  You can contact me at [brady.savarie@hotmail.com](mailto:brady.savarie@hotmail.com)
-*   🚀  My most recent project is <a href="https://bradysavarie.github.io/memory-cards/">Memory Cards</a>
-*   ✏️ I'm currently working on an Ecommerce application
-*   🧠  I'm learning React routing and testing via The Odin Project
+*   🚀  My most recent project is <a href="https://beamish-bienenstitch-2cbea9.netlify.app">Audio Effects</a>
+*   ✏️ I'm currently working on a Portfolio website
+*   🧠  I'm learning the MERN stack via The Odin Project
 
 <br>
 <h2>Skills</h2>
