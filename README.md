@@ -4,7 +4,7 @@ Hello!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 I'm a self-taught developer looking to transition from the graphics production industry to a career in full-stack software development. I work hard everyday towards my goal of conquering the MERN stack 💪 Designing and building visually appealing products that solve business problems is what gets me up in the morning (with the help of a strong cup of coffee).
 
 *   🌍  I'm based in Sudbury, ON
-*   🖥️  See my portfolio at [MyPortfolio](http://my-portfolio-link)
+*   🖥️  Click to see <a href="https://main--comfy-licorice-bd7a05.netlify.app/">my portfolio</a>
 *   ✉️  You can contact me at [brady.savarie@hotmail.com](mailto:brady.savarie@hotmail.com)
 *   🚀  My most recent project is <a href="https://beamish-bienenstitch-2cbea9.netlify.app">Audio Effects</a>
 *   ✏️ I'm currently working on a Portfolio website
