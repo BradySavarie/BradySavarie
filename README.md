@@ -7,7 +7,7 @@ I'm a self-taught developer looking to transition from the graphics production i
 *   🖥️  View my portfolio site <a href="https://main--comfy-licorice-bd7a05.netlify.app/">here</a>!
 *   ✉️  You can contact me at [brady.savarie@hotmail.com](mailto:brady.savarie@hotmail.com)
 *   🚀  My most recent project is <a href="https://beamish-bienenstitch-2cbea9.netlify.app">Audio Effects</a>
-*   ✏️ I'm currently building an inventory management application using NodeJS, Express & MongoDB.
+*   ✏️ I'm currently building an Members Only application using the MERN stack.
 *   🧠  I'm learning the MERN stack via The Odin Project
 
 <br>
